@@ -1,5 +1,4 @@
 ### EX NO : 01
-### DATE  : 
 # <p align="center">Developing a Neural Network Regression Model</p>
 
 ## AIM :
